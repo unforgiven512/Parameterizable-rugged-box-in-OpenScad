@@ -1,0 +1,22 @@
+{
+    "parameterSets": {
+        "125x75x200": {
+            "DXFexport": "0",
+            "FrontPanelEmbedmentDepthBot": "30",
+            "FrontPanelScrewDia": "3",
+            "arangeForPrint": "1",
+            "boltLength": "25",
+            "depth": "75",
+            "diameterCLIP": "3",
+            "disableHINGE": "0",
+            "enableBOTinside": "1",
+            "enableTOPinside": "0",
+            "heightBOT": "175",
+            "heightTOP": "25",
+            "openingAngle": "120",
+            "thickness": "4",
+            "width": "125"
+        }
+    },
+    "fileFormatVersion": "1"
+}
